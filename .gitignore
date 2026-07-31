@@ -1,0 +1,18 @@
+# IDE / editor
+.idea/
+*.iml
+.DS_Store
+
+# Build output
+.gradle/
+build/
+captures/
+.cxx/
+
+# Secrets / local config
+local.properties
+*.keystore
+*.jks
+
+# Claude Code
+.claude/
